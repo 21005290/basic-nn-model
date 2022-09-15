@@ -10,7 +10,7 @@ Training the algorithm to predict the price of house with square feet values.
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![](![](https://github.com/21005290/basic-nn-model/blob/main/2022-09-15%20(13).png))
 
 ## DESIGN STEPS
 
@@ -115,21 +115,23 @@ ai_brain.predict(input_scaled)
 
 ## Dataset Information
 
-Include screenshot of the dataset
+![](https://github.com/21005290/basic-nn-model/blob/main/2022-09-15%20(15).png)
+
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
 
-Include your plot here
+![](https://github.com/21005290/basic-nn-model/blob/main/2022-09-15%20(17).png)
+
 
 ### Test Data Root Mean Squared Error
 
-Find the test data root mean squared error
+![](https://github.com/21005290/basic-nn-model/blob/main/2022-09-15%20(18).png)
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+![](https://github.com/21005290/basic-nn-model/blob/main/2022-09-15%20(20).png)
 
 ## RESULT
 Thus the price of the house is predicted.
