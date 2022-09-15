@@ -10,7 +10,7 @@ Training the algorithm to predict the price of house with square feet values.
 
 ## Neural Network Model
 
-![](![](https://github.com/21005290/basic-nn-model/blob/main/2022-09-15%20(13).png))
+![](https://github.com/21005290/basic-nn-model/blob/main/2022-09-15%20(13).png)
 
 ## DESIGN STEPS
 
